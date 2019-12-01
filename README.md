@@ -13,12 +13,12 @@
  
 ## List of programs:
 
-##### * Basics of Python
+##### Basics of Python
   * Loops and List Comprehensions
   * List,tuples,dictionaries
   * Functions and Class
   
-##### * Python programs
+##### Python programs
   * ChangeString
   * LetterSurround
   * HourMinute
@@ -29,7 +29,7 @@
   * TemperatureConvert
   * SentenceReverse
   
-##### * JavaScript Programs
+##### JavaScript Programs
   * ChangeString
   * LetterSurround
   * HourMinute
@@ -43,7 +43,7 @@
   * JSON(Car Details)
   * JSON(Color Names)
   
-##### * Data Visualization
+##### Data Visualization
   * Student Performance
   * Black Friday
   * Iris
