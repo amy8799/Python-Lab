@@ -48,3 +48,22 @@
   * Black Friday
   * Iris
   * Titanic
+  
+## Screenshots:
+My GitHub Repository
+![](images/img3.png)
+
+Python Programs
+![](images/img2.png)
+
+Javascript Programs
+![](images/img1.png)
+
+Data Visualization Program on StudentPerformance DataSet
+![](images/img4.png)
+
+Javascript Program using JSON Object and hover action
+![](images/img5.png)
+
+
+
