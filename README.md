@@ -50,20 +50,25 @@
   * Titanic
   
 ## Screenshots:
-My GitHub Repository
-![](images/img3.png)
+* My GitHub Repository
 
-Python Programs
-![](images/img2.png)
+![](images/img3.PNG)
 
-Javascript Programs
-![](images/img1.png)
+* Python Programs
 
-Data Visualization Program on StudentPerformance DataSet
-![](images/img4.png)
+![](images/img2.PNG)
 
-Javascript Program using JSON Object and hover action
-![](images/img5.png)
+* Javascript Programs
+
+![](images/img1.PNG)
+
+* Data Visualization Program on StudentPerformance DataSet
+
+![](images/img4.PNG)
+
+* Javascript Program using JSON Object and hover action
+
+![](images/img5.PNG)
 
 
 
